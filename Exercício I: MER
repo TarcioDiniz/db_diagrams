@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Página-1" id="JBGaCbHL6oe6co5KRlw5">
-    <mxGraphModel dx="2333" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -306,11 +306,8 @@
         <mxCell id="ciJa-8zYx71doDFtvmR5-165" value="&lt;font face=&quot;Lato Extended, Lato, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#2d3b45&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;5. Um cliente realiza várias encomendas. Uma encomenda diz respeito apenas a um cliente.&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="945" width="350" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ciJa-8zYx71doDFtvmR5-168" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry y="25" width="490" height="1120" as="geometry" />
-        </mxCell>
-        <mxCell id="ciJa-8zYx71doDFtvmR5-169" value="&lt;span style=&quot;color: rgb(45, 59, 69); font-family: &amp;quot;Lato Extended&amp;quot;, Lato, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;Situação A - Primeiro Diagrama&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="45" width="247" height="30" as="geometry" />
+        <mxCell id="ciJa-8zYx71doDFtvmR5-170" value="Situação A - Primeiro Diagrama" style="swimlane;startSize=20;horizontal=1;containerType=tree;" vertex="1" parent="1">
+          <mxGeometry x="10" y="60" width="470" height="1060" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
